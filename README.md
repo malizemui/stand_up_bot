@@ -1,4 +1,4 @@
-Teammates - Daniel Tolessa (danielmt) and Mahlet Zemui (mzemui)
+Teammates - Daniel Tolessa (danielmt) and Mahlet Zemui (mtzemui)
 # stand_up_bot
 AI implementation of a 'Stand-Up Bot' for the automated software engineering workshop
 
