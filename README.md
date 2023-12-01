@@ -1,10 +1,7 @@
 Teammates - Daniel Tolessa (danielmt) and Mahlet Zemui (mtzemui)
-# stand_up_bot
-AI implementation of a 'Stand-Up Bot' for the automated software engineering workshop
+# AI implementation of a 'Stand-Up Bot' for the automated software engineering workshop
 
-This is a basic implementation of a stand-up bot that reminds people to take periodic breaks from sitting. It uses Python's built-in scheduler to set timed reminders.
-
-The stand-up bot will print a reminder message telling the user to "stand up and take a break." This reminder repeats on an hourly interval.
+This repository includes a python-based stand-up bot designed to facilitate remote team collaboration by automating the scheduling and initiation of daily stand-up meetings for developers. This bot integrates with the Slack platform, notifying team members to share their updates during the designated stand-up time.
 
 Pros/Cons of software engineering with ChatGPT
 
