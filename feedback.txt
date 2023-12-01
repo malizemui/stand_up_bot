@@ -1,2 +1,4 @@
 Brandon Fontenot(bfonte)
 Andrew Delgadillo(drejsp)
+
+Overall it's a great start for a stand-up bot. One suggestion that would be that it should be made a bit more customizable, possibly having a way for different users to adjust the way it looks to adapt to their needs.
